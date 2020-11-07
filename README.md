@@ -1,6 +1,6 @@
 # Hakaricraft
 
-Hikaricraft Download: https://www.dropbox.com/s/pg29svjeq5bgyvx/Hikaricraft-1.0.1.zip?dl=0
+Hikaricraft Download: https://www.dropbox.com/s/pg29svjeq5bgyvx/Hikaricraft-1.0.1.zip?dl=1
 
 Step1: https://desktop.twitchsvc.net/installer/windows/TwitchSetup.exe  
 
